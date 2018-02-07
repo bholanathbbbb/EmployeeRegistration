@@ -1,0 +1,10 @@
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\bin\Debug\Presenter.dll
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\bin\Debug\Presenter.pdb
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\bin\Debug\DataAccess.dll
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\bin\Debug\Domain.dll
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\bin\Debug\SQLite.NET.dll
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\bin\Debug\DataAccess.pdb
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\bin\Debug\Domain.pdb
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\obj\Debug\Presenter.csprojResolveAssemblyReference.cache
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\obj\Debug\Presenter.dll
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\Presenter\obj\Debug\Presenter.pdb

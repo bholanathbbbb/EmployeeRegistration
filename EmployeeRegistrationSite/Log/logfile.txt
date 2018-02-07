@@ -1,0 +1,9 @@
+Data Time:2/7/2018 1:54:32 PM
+Exception Name:Thread was being aborted.
+Trace:   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at _Default.SignIn_Click(Object sender, EventArgs e) in c:\Users\roshagrawal\Downloads\EmployeeRegistration\EmployeeRegistrationSite\EmployeeSignIn.aspx.cs:line 39

@@ -1,0 +1,8 @@
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\DataAccess\bin\Debug\Domain.dll
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\DataAccess\bin\Debug\SQLite.NET.dll
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\DataAccess\bin\Debug\Domain.pdb
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\roshagrawal\Downloads\EmployeeRegistration\DataAccess\obj\Debug\DataAccess.pdb
